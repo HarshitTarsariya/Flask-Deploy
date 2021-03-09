@@ -1,7 +1,7 @@
 gunicorn==19.9.0
+opencv==4.0.1
 numpy==1.19.0
 astroid==2.3.3
-opencv-python==4.0.1
 astunparse==1.6.3
 async-generator==1.10
 async-timeout==3.0.1
