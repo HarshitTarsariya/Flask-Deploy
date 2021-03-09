@@ -1,5 +1,5 @@
 gunicorn==19.9.0
-open-cv==4.0.1
+opencv-python-headless==4.2.0.32
 numpy==1.19.0
 astroid==2.3.3
 astunparse==1.6.3
