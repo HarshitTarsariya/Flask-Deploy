@@ -1,5 +1,5 @@
 gunicorn==19.9.0
-opencv==4.0.1
+pip install opencv-python==4.0.1
 numpy==1.19.0
 astroid==2.3.3
 astunparse==1.6.3
